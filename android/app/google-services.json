@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "27120468562",
+    "project_id": "cast-tv-d7eb1",
+    "storage_bucket": "cast-tv-d7eb1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27120468562:android:5c41d213e20dc08747958b",
+        "android_client_info": {
+          "package_name": "com.example.cast_tv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27120468562-flh21qqsbfqphfpfdem601hh4e83n402.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtIsWcQPjHi6z8zm4SHY8K7nDv1df_Ahc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27120468562-flh21qqsbfqphfpfdem601hh4e83n402.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
